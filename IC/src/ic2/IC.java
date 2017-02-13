@@ -1,4 +1,4 @@
-package ic;
+package ic2;
 
 public class IC {
 
