@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="elektriciteitsprijsresponse"/>
+  <xs:complexType name="elektriciteitsprijsresponse">
+    <xs:all minOccurs="1" maxOccurs="1">
+      <xs:element name="maandprijs" type="xs:decimal"/>
+      <xs:element name="jaarprijs" type="xs:decimal"/>
+    </xs:all>
+  </xs:complexType>
+</xs:schema>
