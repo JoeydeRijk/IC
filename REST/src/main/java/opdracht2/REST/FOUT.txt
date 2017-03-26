@@ -1,0 +1,8 @@
+{
+	"VastgoedPM": 41.99,
+    	"KostenPerKWH": 0.08,
+    	"VerbteKWH": 4000.0,
+	"VastedPM": twee,
+    	"KoenPerKWH": 4.123,
+    	erbruikteKWH: 400,70,
+}

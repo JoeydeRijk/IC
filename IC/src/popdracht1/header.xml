@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elektriciteitsprijs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NewXMLSchema.xsd">
+  <gebruikteKWH>gebruikteKWH</gebruikteKWH>
+  <kostenPerKWH>kostenPerKWH</kostenPerKWH>
+  <vastrechtPM>vastrechtPM</vastrechtPM>
+</elektriciteitsprijs>
